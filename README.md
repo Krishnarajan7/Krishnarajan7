@@ -58,7 +58,4 @@
 
 ---
 
-### 🧪 Fun & Science-Based Humor 🤓  
-**"Hyper-focus activated... until sleep mode kicks in."**  
-
 ⭐ **Fun Fact:** *He is a huge fan of MS Dhoni!* 🏏🔥
