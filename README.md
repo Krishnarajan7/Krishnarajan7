@@ -6,7 +6,7 @@
 
 ### About Him 🚀  
 - 🚀 Freelancing: A Schrödinger’s job—both free and fully booked at the same time. 😆
-- 🎓 3rd-year CSE student at EGS Pillay Engineering College (GPA: 8.1)
+- 🎓 3rd-year CSE student at EGS Pillay Engineering College (GPA: 8.5)
 - 🏆 1200+ problems solved on Skillrack | 50+ on LeetCode
 - 💡 Passionate about AI, Speech Recognition, and Full-Stack Development
 - 📹 Running two YouTube channels: **KrishCodes** (Coding & Problem-Solving - 3500+ Subscribers) & **Wander VLogs** (Travel & Culture - 350+ Subscribers)
