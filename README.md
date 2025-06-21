@@ -4,15 +4,24 @@
 
 ---
 
+### 🔗 Portfolio & Resume
+
+- 🌐 **Portfolio:** [krishcodes.tech](https://krishcodes.tech) – Explore my projects, designs, and more!
+- 📄 **Resume:** [View Resume](https://github.com/Krishnarajan7/Krishnarajan7/blob/main/resume.pdf)
+
+---
+
 ### About Him 🚀  
-- 🚀 Freelancing: A Schrödinger’s job—both free and fully booked at the same time. 😆
 - 🎓 3rd-year CSE student at EGS Pillay Engineering College (GPA: 8.5)
-- 🏆 1200+ problems solved on Skillrack | 50+ on LeetCode
+- 🏆 Solved 1200+ problems on Skillrack | 50+ on LeetCode
 - 💡 Passionate about AI, Speech Recognition, and Full-Stack Development
-- 📹 Running two YouTube channels: **KrishCodes** (Coding & Problem-Solving - 3500+ Subscribers) & **Wander VLogs** (Travel & Culture - 350+ Subscribers)
+- 📹 Content creator with two YouTube channels:  
+  &nbsp;&nbsp;&nbsp;&nbsp;• **KrishCodes** – Coding & Problem Solving (3500+ Subscribers)  
+  &nbsp;&nbsp;&nbsp;&nbsp;• **Wander VLogs** – Travel & Culture (350+ Subscribers)  
 - 🎨 UI/UX enthusiast | Photoshop & Design Lover
 - 💬 Open to collaborations & learning new technologies!
-- 💼 **Freelancer:** Completed **2 fully functional projects** (Educational Trust & Clothing Website) and got paid!
+- 💼 **Freelancer:** Completed **2 live projects** (Educational Trust & Clothing Brand) – both paid gigs!
+- 🚀 Freelancing: A Schrödinger’s job — both free and fully booked at the same time. 😆
 
 ---
 
@@ -36,11 +45,11 @@
 
 ### 🌟 Projects & Achievements  
 
-- 🛠 Built an **AI Chatbot & Virtual Assistant** using Python  
-- 🚗 Working on a **Smart Vehicle Project** for Smart India Hackathon  
-- 🌍 Created a **fully functional website** for a clothing brand client  
-- 🎨 Designed **logos, brochures, and posters** for various clubs & events  
-- 🎤 Running **KrishCodes** YouTube channel with **3K** subscribers 
+- 🤖 Built an **AI Chatbot & Virtual Assistant** using Python  
+- 🚗 Developing a **Smart Vehicle Project** for Smart India Hackathon  
+- 🧵 Delivered a full website for a **clothing brand client**  
+- 🎨 Designed logos, brochures & posters for various college events  
+- 🎥 Grew **KrishCodes** YouTube channel to 3K+ subscribers
 
 ---
 
@@ -48,13 +57,13 @@
 ![Krish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krishnarajan7&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnarajan7&layout=compact&theme=radical)  
 
-
 ---
 
 ### 🌎 Let's Connect! 🔗  
-[![LinkedIn](https://www.linkedin.com/in/krishnarajan007?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-[![YouTube](https://youtube.com/@krishcodes-io?si=KCFnl_poYzTY_OsM)  
-[![Instagram](https://www.instagram.com/_.krish.irizz?igsh=MXV6eHJ4dHQxeHZqbg==)  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnarajan007)  
+[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@krishcodes-io)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_.krish.irizz)
 
 ---
 
