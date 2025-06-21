@@ -6,14 +6,13 @@
 
 ### 🔗 Portfolio & Resume
 
-- 🌐 **Portfolio:** [krishcodes.tech](https://krishcodes.tech) – Explore my projects, designs, and more!
-- 📄 **Resume:** [View Resume](https://github.com/Krishnarajan7/Krishnarajan7/blob/main/resume.pdf)
-
+- 🌐 **Portfolio:** [Krishnarajan](https://krishcodes.tech) – Explore my projects, designs, and more!
+- 
 ---
 
 ### About Him 🚀  
 - 🎓 3rd-year CSE student at EGS Pillay Engineering College (GPA: 8.5)
-- 🏆 Solved 1200+ problems on Skillrack | 50+ on LeetCode
+- 🏆 Solved 1200+ problems on Skillrack | 150+ on LeetCode
 - 💡 Passionate about AI, Speech Recognition, and Full-Stack Development
 - 📹 Content creator with two YouTube channels:  
   &nbsp;&nbsp;&nbsp;&nbsp;• **KrishCodes** – Coding & Problem Solving (3500+ Subscribers)  
