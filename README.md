@@ -6,7 +6,7 @@
 
 ### 🔗 Portfolio & Resume
 
-- 🌐 **Portfolio:** [Krishnarajan](https://krishcodes.tech) – Explore my projects, designs, and more!\
+- 🌐 **Portfolio:** [Krishnarajan](https://krishcodes.tech) – Explore my projects, designs, and more!
 
 ---
 
