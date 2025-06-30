@@ -1,88 +1,115 @@
-<h1 align="center">Hi there, I'm Krish! 👋</h1>
+Hi there, I'm Krish! 👋
 
-<p align="center">
-🚀 Full-Stack Developer | 🧠 Problem Solver | 🎥 Content Creator
-</p>
+  🚀 Full-Stack Developer | 🧠 Competitive Programmer | 🎥 Content Creator
 
----
 
-### 🔗 Portfolio & Resume
-- 🌐 **Portfolio:** [Krishnarajan]([(https://krish-dev-portfolio.netlify.app/)])
 
----
+  
+  
+  
+  
 
-### 🚀 About Me
-- 🎓 3rd-year CSE student at EGS Pillay Engineering College (GPA: 8.1)  
-- 🏆 Solved 1200+ problems on Skillrack | 150+ on LeetCode  
-- 💡 Passionate about AI, Speech Recognition & Full-Stack Development  
-- 📹 **YouTuber**:  
-  - 🎥 [KrishCodes](https://youtube.com/@krishcodes-io) – 3.5K+ Subs  
-  - 🌍 [Wander VLogs](https://www.instagram.com/_.krish.irizz) – 350+ Subs  
-- 🛠️ **Freelancer** – 4 live paid projects (Ed. Trust & Clothing Brand)  
-- 🎨 UI/UX enthusiast | Photoshop & Design Lover  
-- 💬 Always open to collaborations & new challenges!  
 
----
 
-### 💻 Tech Stack
+🚀 About Me
 
-#### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+🎓 3rd-year CSE Student at EGS Pillay Engineering College (GPA: 8.5/10)  
+🏆 Competitive Programmer: 1200+ problems solved on Skillrack | 150+ on LeetCode  
+💡 Passionate about AI, Speech Recognition, and Full-Stack Development  
+📹 YouTuber:  
+🎥 KrishCodes – 3.5K+ subscribers, sharing coding tutorials & tech insights  
+🌍 Wander VLogs – 350+ subscribers, showcasing travel & lifestyle
 
-#### Tools & Platforms
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
----
+🛠️ Freelancer: Delivered 2 live projects for an Educational Trust and a Clothing Brand  
+🎨 UI/UX Enthusiast: Skilled in Photoshop, Figma, and creative design for web & events  
+💬 Open to Collaborations: Always excited for new challenges and innovative projects!
 
-### 🌟 Projects & Achievements
 
-- 🤖 Built an **AI Chatbot & Virtual Assistant** using Python  
-- 🚗 Working on **Smart Vehicle Project** – Smart India Hackathon  
-- 🧵 Developed full-stack web app for **clothing brand** client  
-- 🎨 Designed logos, posters & brochures for college events  
-- 🎥 Scaled **KrishCodes** channel to 3K+ subscribers organically  
+💻 Tech Stack
+Languages & Frameworks
 
----
+  
+  
+  
+  
+  
+  
+  
+  
 
-### 📊 GitHub Metrics
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Krishnarajan7&show_icons=true&theme=radical" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnarajan7&layout=compact&theme=radical" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnarajan7&theme=radical" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krishnarajan7&theme=radical" />
-    </td>
-  </tr>
-</table>
+Tools & Platforms
 
----
+  
+  
+  
+  
+  
 
-### 🌍 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnarajan007)
-[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@krishcodes-io)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_.krish.irizz)
+Skills Proficiency
 
----
+  Frontend Development:  85%  
+  Backend Development:  80%  
+  Database Management:  75%  
+  Competitive Programming:  90%  
+  UI/UX Design:  70%  
 
-⭐ **Fun Fact:** *He is a huge fan of MS Dhoni!* 🏏🔥
+
+
+🌟 Featured Projects
+
+AI Chatbot & Virtual Assistant 🤖Built a Python-based chatbot with speech recognition and NLP, enabling seamless user interaction.Tech: Python, NLTK, SpeechRecognition | View Code
+
+Clothing Brand Web App 🧵Developed a responsive full-stack e-commerce platform with secure payments and role-based access.Tech: React, Node.js, PostgreSQL, Tailwind CSS | Live Demo
+
+Smart Vehicle System 🚗Leading a team for the Smart India Hackathon, building an IoT-based vehicle monitoring system.Tech: Python, Django, IoT, PostgreSQL | In Progress
+
+College ERP System 🏫Designed and developed a scalable ERP for college operations with admin and student portals.Tech: Django, PostgreSQL, DRF, Tailwind CSS | View Code
+
+Event Branding 🎨Created logos, posters, and brochures for college events, blending creativity with functionality.Tech: Photoshop, Figma | Portfolio
+
+
+
+🏆 Achievements
+
+🥇 Solved 1200+ problems on Skillrack and 150+ on LeetCode, ranking in the top 10%  
+📈 Scaled KrishCodes YouTube to 3.5K+ subscribers with organic growth in 1 year  
+🚀 Led freelance projects to production for real-world clients (Education & Retail)  
+🏅 Represented college in Smart India Hackathon 2025 with a Smart Vehicle project  
+🎨 Won Best Design Award for event branding at college tech fest
+
+
+📊 GitHub Stats
+
+  
+  
+
+
+  
+
+
+  
+
+
+
+🛠️ Featured Repositories
+
+  
+  
+
+
+
+🌍 Connect with Me
+
+  
+  
+  
+  
+
+
+
+⭐ Fun Fact: I'm a huge MS Dhoni fan and never miss a CSK match! 🏏🔥  
+
+  
