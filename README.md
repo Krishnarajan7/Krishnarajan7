@@ -11,16 +11,16 @@
 ---
 
 ### About Him 🚀  
-- 🎓 3rd-year CSE student at EGS Pillay Engineering College (GPA: 8.5)
-- 🏆 Solved 1200+ problems on Skillrack | 150+ on LeetCode
-- 💡 Passionate about AI, Speech Recognition, and Full-Stack Development
+- 🎓 3rd-year CSE student at EGS Pillay Engineering College (GPA: 8.5)  
+- 🏆 Solved 1200+ problems on Skillrack | 150+ on LeetCode  
+- 💡 Passionate about AI, Speech Recognition, and Full-Stack Development  
 - 📹 Content creator with two YouTube channels:  
   &nbsp;&nbsp;&nbsp;&nbsp;• **KrishCodes** – Coding & Problem Solving (3500+ Subscribers)  
   &nbsp;&nbsp;&nbsp;&nbsp;• **Wander VLogs** – Travel & Culture (350+ Subscribers)  
-- 🎨 UI/UX enthusiast | Photoshop & Design Lover
-- 💬 Open to collaborations & learning new technologies!
-- 💼 **Freelancer:** Completed **2 live projects** (Educational Trust & Clothing Brand) – both paid gigs!
-- 🚀 Freelancing: A Schrödinger’s job — both free and fully booked at the same time. 😆
+- 🎨 UI/UX enthusiast | Photoshop & Design Lover  
+- 💬 Open to collaborations & learning new technologies!  
+- 💼 **Freelancer:** Completed **4 live projects** – both paid gigs!  
+- 🚀 Freelancing: A Schrödinger’s job — both free and fully booked at the same time. 😆  
 
 ---
 
@@ -48,13 +48,15 @@
 - 🚗 Developing a **Smart Vehicle Project** for Smart India Hackathon  
 - 🧵 Delivered a full website for a **clothing brand client**  
 - 🎨 Designed logos, brochures & posters for various college events  
-- 🎥 Grew **KrishCodes** YouTube channel to 3K+ subscribers
+- 🎥 Grew **KrishCodes** YouTube channel to 3K+ subscribers  
 
 ---
 
 ### 📊 GitHub Stats  
+
 ![Krish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krishnarajan7&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnarajan7&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Krishnarajan7&theme=radical)
 
 ---
 
