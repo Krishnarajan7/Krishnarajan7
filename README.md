@@ -7,7 +7,7 @@
 ---
 
 ### 🔗 Portfolio & Resume
-- 🌐 **Portfolio:** [Krishnarajan](https://krishcodes.tech)
+- 🌐 **Portfolio:** [Krishnarajan]([https://krishcodes.tech](https://krish-dev-portfolio.netlify.app/))
 
 ---
 
