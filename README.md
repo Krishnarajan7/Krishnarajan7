@@ -7,10 +7,10 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/krishnarajan007" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://leetcode.com/krish_coder007/" title="LeetCode Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/leetcode.svg"> LeetCode</a></code>
-  <code><a href="https://youtube.com/@krishcodes-io" title="YouTube Channel"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg"> YouTube</a></code>
-  <code><a href="https://www.instagram.com/_.krish.irizz" title="Instagram Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg"> Instagram</a></code>
+  <a href="https://www.linkedin.com/in/krishnarajan007" title="LinkedIn Profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/krish_coder007/" title="LeetCode Profile"><img src="https://img.shields.io/badge/LeetCode-FCBA04?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://youtube.com/@krishcodes-io" title="YouTube Channel"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.instagram.com/_.krish.irizz" title="Instagram Profile"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </h5>
 
 <p align="center">
