@@ -1,115 +1,78 @@
-Hi there, I'm Krish! 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Krishnarajan7">
 
-  🚀 Full-Stack Developer | 🧠 Competitive Programmer | 🎥 Content Creator
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Krishnarajan....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/krishnarajan007" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://leetcode.com/krish_coder007/" title="LeetCode Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/leetcode.svg"> LeetCode</a></code>
+  <code><a href="https://youtube.com/@krishcodes-io" title="YouTube Channel"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg"> YouTube</a></code>
+  <code><a href="https://www.instagram.com/_.krish.irizz" title="Instagram Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg"> Instagram</a></code>
+</h5>
 
+<p align="center">
+  👋 Hi, I'm Krish — Full-Stack Developer | AI Enthusiast | Content Creator <br>
+  🎓 CSE Undergrad @ EGS Pillay Engineering College (GPA: 8.5) <br>
+  🧠 Interested in AI, Speech Recognition, and Building Smart Systems <br>
+  🎥 YouTuber: KrishCodes (3.5K+) & WanderVLogs (Travel Channel) <br>
+  💼 Completed 2 Freelance Projects (Educational Trust & Fashion Brand) <br>
+  🧩 Constantly Learning and Exploring New Technologies
+</p>
 
-  
-  
-  
-  
+---
 
+<h2 align="center">🚀 Tech Stack & Tools</h2>
+<p align="center">
+  <code><img title="Python" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg"></code>
+  <code><img title="JavaScript" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg"></code>
+  <code><img title="React" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg"></code>
+  <code><img title="Node.js" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/node-dot-js.svg"></code>
+  <code><img title="PostgreSQL" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/postgresql.svg"></code>
+  <code><img title="HTML5" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg"></code>
+  <code><img title="CSS3" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg"></code>
+  <code><img title="GitHub" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg"></code>
+  <code><img title="Figma" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/figma.svg"></code>
+</p>
 
+---
 
-🚀 About Me
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnarajan7&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Krishnarajan7&show_icons=true&theme=radical" />
+</p>
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnarajan7&layout=compact&theme=radical" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishnarajan7&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" />
+</p>
 
-🎓 3rd-year CSE Student at EGS Pillay Engineering College (GPA: 8.5/10)  
-🏆 Competitive Programmer: 1200+ problems solved on Skillrack | 150+ on LeetCode  
-💡 Passionate about AI, Speech Recognition, and Full-Stack Development  
-📹 YouTuber:  
-🎥 KrishCodes – 3.5K+ subscribers, sharing coding tutorials & tech insights  
-🌍 Wander VLogs – 350+ subscribers, showcasing travel & lifestyle
+---
 
+<h2 align="center">📌 Featured Projects</h2>
+<div align="center">
+  <a href="https://github.com/Krishnarajan7/EduVerse" title="EduVerse">
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Krishnarajan7&repo=EduVerse&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <a href="https://github.com/Krishnarajan7/Krish-Portfolio" title="Krish Portfolio">
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Krishnarajan7&repo=Krish-Portfolio&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+</div>
 
-🛠️ Freelancer: Delivered 2 live projects for an Educational Trust and a Clothing Brand  
-🎨 UI/UX Enthusiast: Skilled in Photoshop, Figma, and creative design for web & events  
-💬 Open to Collaborations: Always excited for new challenges and innovative projects!
+<h4 align="center">
+  <a href="https://github.com/Krishnarajan7?tab=repositories">🔍 Explore More Projects</a>
+</h4>
 
+---
 
-💻 Tech Stack
-Languages & Frameworks
-
-  
-  
-  
-  
-  
-  
-  
-  
-
-
-Tools & Platforms
-
-  
-  
-  
-  
-  
-
-
-Skills Proficiency
-
-  Frontend Development:  85%  
-  Backend Development:  80%  
-  Database Management:  75%  
-  Competitive Programming:  90%  
-  UI/UX Design:  70%  
-
-
-
-🌟 Featured Projects
-
-AI Chatbot & Virtual Assistant 🤖Built a Python-based chatbot with speech recognition and NLP, enabling seamless user interaction.Tech: Python, NLTK, SpeechRecognition | View Code
-
-Clothing Brand Web App 🧵Developed a responsive full-stack e-commerce platform with secure payments and role-based access.Tech: React, Node.js, PostgreSQL, Tailwind CSS | Live Demo
-
-Smart Vehicle System 🚗Leading a team for the Smart India Hackathon, building an IoT-based vehicle monitoring system.Tech: Python, Django, IoT, PostgreSQL | In Progress
-
-College ERP System 🏫Designed and developed a scalable ERP for college operations with admin and student portals.Tech: Django, PostgreSQL, DRF, Tailwind CSS | View Code
-
-Event Branding 🎨Created logos, posters, and brochures for college events, blending creativity with functionality.Tech: Photoshop, Figma | Portfolio
-
-
-
-🏆 Achievements
-
-🥇 Solved 1200+ problems on Skillrack and 150+ on LeetCode, ranking in the top 10%  
-📈 Scaled KrishCodes YouTube to 3.5K+ subscribers with organic growth in 1 year  
-🚀 Led freelance projects to production for real-world clients (Education & Retail)  
-🏅 Represented college in Smart India Hackathon 2025 with a Smart Vehicle project  
-🎨 Won Best Design Award for event branding at college tech fest
-
-
-📊 GitHub Stats
-
-  
-  
-
-
-  
-
-
-  
+<p align="center">
+  ⚡ Fun Fact: I’m a huge fan of MS Dhoni! 🏏🔥 <br>
+  📫 Reach Me: <a href="mailto:krishh.v777@gmail.com">krishh.v777@gmail.com</a>
+</p>
 
 
 
-🛠️ Featured Repositories
-
-  
-  
-
-
-
-🌍 Connect with Me
-
-  
-  
-  
-  
-
-
-
-⭐ Fun Fact: I'm a huge MS Dhoni fan and never miss a CSK match! 🏏🔥  
-
-  
