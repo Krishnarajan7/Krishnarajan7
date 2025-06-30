@@ -14,7 +14,7 @@
 </h5>
 
 <p align="center">
-  👋 Hi, I'm Krish — Full-Stack Developer | AI Enthusiast | Content Creator <br>
+  👋 Hi, I'm Krish — Full-Stack Developer | Problem Solver | Content Creator <br>
   🎓 CSE Undergrad @ EGS Pillay Engineering College (GPA: 8.1) <br>
   🧠 Interested in AI, Speech Recognition, and Building Smart Systems <br>
   🎥 YouTuber: KrishCodes (3.5K+) & WanderVLogs (Travel Channel) <br>
