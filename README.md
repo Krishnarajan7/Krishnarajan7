@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Krishnarajan....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Krishnarajan....;Nice+to+meet+you!¢er=true&size=30">
   </a>
 </h1>
 
@@ -15,10 +15,10 @@
 
 <p align="center">
   👋 Hi, I'm Krish — Full-Stack Developer | AI Enthusiast | Content Creator <br>
-  🎓 CSE Undergrad @ EGS Pillay Engineering College (GPA: 8.5) <br>
+  🎓 CSE Undergrad @ EGS Pillay Engineering College (GPA: 8.1) <br>
   🧠 Interested in AI, Speech Recognition, and Building Smart Systems <br>
   🎥 YouTuber: KrishCodes (3.5K+) & WanderVLogs (Travel Channel) <br>
-  💼 Completed 2 Freelance Projects (Educational Trust & Fashion Brand) <br>
+  💼 Completed 4 Freelance Projects<br>
   🧩 Constantly Learning and Exploring New Technologies
 </p>
 
@@ -26,15 +26,15 @@
 
 <h2 align="center">🚀 Tech Stack & Tools</h2>
 <p align="center">
-  <code><img title="Python" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg"></code>
-  <code><img title="JavaScript" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg"></code>
-  <code><img title="React" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg"></code>
-  <code><img title="Node.js" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/node-dot-js.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/postgresql.svg"></code>
-  <code><img title="HTML5" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg"></code>
-  <code><img title="CSS3" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg"></code>
-  <code><img title="GitHub" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg"></code>
-  <code><img title="Figma" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/figma.svg"></code>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React" /></a>
+  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" /></a>
 </p>
 
 ---
@@ -73,6 +73,3 @@
   ⚡ Fun Fact: I’m a huge fan of MS Dhoni! 🏏🔥 <br>
   📫 Reach Me: <a href="mailto:krishh.v777@gmail.com">krishh.v777@gmail.com</a>
 </p>
-
-
-
