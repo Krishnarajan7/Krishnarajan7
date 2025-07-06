@@ -48,7 +48,7 @@
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnarajan7&layout=compact&theme=radical" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishnarajan7&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishnarajan7&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" />https://github.com/Krishnarajan7/MiMacademy
 </p>
 
 ---
@@ -60,6 +60,12 @@
   </a>
   <a href="https://github.com/Krishnarajan7/Krish-Portfolio" title="Krish Portfolio">
     <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Krishnarajan7&repo=Krish-Portfolio&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <a href="https://github.com/Krishnarajan7/grow_with_25" title="growvest Academy">
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Krishnarajan7&repo=grow_with_25&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <a href="https://github.com/Krishnarajan7/MiMacademy" title="MIM Academy">
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Krishnarajan7&repo=MIMacademy&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
 
