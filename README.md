@@ -1,4 +1,3 @@
-
 <p align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Krishnarajan7" alt="Profile Visitors" />
 </p>
@@ -8,7 +7,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&width=800&center=true&vCenter=true&lines=Hello%2C+There!+%F0%9F%91%8B;I'm+Krishnarajan;Full+Stack+Developer;Content+Creator;10%2B+Freelance+Projects" alt="Typing SVG" />
   </a>
 </p>
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/krishnarajan007"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
@@ -51,13 +49,12 @@
 
 ---
 
-
-<div align="center">
+<div align="center" style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnarajan7&theme=radical&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Krishnarajan7&show_icons=true&theme=radical&hide_border=true" />
-  <br><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnarajan7&layout=compact&theme=radical&hide_border=true" />
-  <br><br>
+</div>
+<div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Krishnarajan7&theme=react-dark&hide_border=true" />
 </div>
 
@@ -104,12 +101,10 @@
   </a>
 </p>
 
-
 ---
 
-
 <p align="center">
-  <sub>• If you like my work, consider starring the repos!</sub>
+  <sub>If you like my work, consider starring 🌟 the repos!</sub>
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
