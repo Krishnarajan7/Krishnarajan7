@@ -69,7 +69,7 @@
 
 - **Frontend**: `React`, `Next.js`, `Tailwind`, `JS`
 - **Backend**: `Node.js`, `Django`, `Python`, `PostgreSQL`
-- **Tools**: `Git`, `Figma`, `REST APIs`
+- **Tools**: `Git`, `Sentry`, `PostHog` ,`Figma`, `REST APIs`
 
 ---
 
