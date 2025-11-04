@@ -133,11 +133,12 @@
 </p>
 
 <div align="center" style="filter:grayscale(10%) contrast(110%);">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHBzZm1lcHhybGh5bzVqYmhoZnE3dG00bnI1MjhwdzJscmh2NmdqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/feJlIEi9cf9PoMl2ia/giphy.gif" width="32" height="32" alt="hacker-gif1"/>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHBzZm1lcHhybGh5bzVqYmhoZnE3dG00bnI1MjhwdzJscmh2NmdqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/feJlIEi9cf9PoMl2ia/giphy.gif" width="32" height="32" alt="hacker-gif2"/>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHBzZm1lcHhybGh5bzVqYmhoZnE3dG00bnI1MjhwdzJscmh2NmdqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/feJlIEi9cf9PoMl2ia/giphy.gif" width="32" height="32" alt="hacker-gif3"/>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHBzZm1lcHhybGh5bzVqYmhoZnE3dG00bnI1MjhwdzJscmh2NmdqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/feJlIEi9cf9PoMl2ia/giphy.gif" width="32" height="32" alt="hacker-gif4"/>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHBzZm1lcHhybGh5bzVqYmhoZnE3dG00bnI1MjhwdzJscmh2NmdqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/feJlIEi9cf9PoMl2ia/giphy.gif" width="32" height="32" alt="hacker-gif5"/>
+  <img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" width="32" height="32" alt="hacker-gif1"/>
+  <img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" width="32" height="32" alt="hacker-gif1"/>
+  <img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" width="32" height="32" alt="hacker-gif1"/>
+  <img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" width="32" height="32" alt="hacker-gif1"/>
+  <img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" width="32" height="32" alt="hacker-gif1"/>
+  <img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" width="32" height="32" alt="hacker-gif1"/>
 </div>
 
 
