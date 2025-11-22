@@ -129,7 +129,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Krishnarajan7&theme=radical&no-frame=true&margin-w=5&row=1&column=6"/>
 <p align="center">
-  <sub>If you like my work, consider starring 🌟 the repos!!</sub>
+  <sub>If you like my work, consider starring 🌟 the repos!!!</sub>
 </p>
 
 <div align="center" style="filter:grayscale(10%) contrast(110%);">
