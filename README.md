@@ -77,7 +77,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/krishnarajan007"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/KrishCodes/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"/></a>
+  <a href="https://leetcode.com/KrishCodes7/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"/></a>
   <a href="https://youtube.com/@KrishCodes-IO"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
   <a href="https://www.instagram.com/_.krish.irizz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
 </p>
