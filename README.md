@@ -138,7 +138,6 @@
   <img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" width="32" height="32" alt="hacker-gif1"/>
   <img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" width="32" height="32" alt="hacker-gif1"/>
   <img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" width="32" height="32" alt="hacker-gif1"/>
-  <img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" width="32" height="32" alt="hacker-gif1"/>
 </div>
 
 
